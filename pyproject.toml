@@ -1,7 +1,7 @@
 [project]
 name = "controle-despesas"
 version = "0.1.0"
-description = ""
+description = "Sistema de gestão financeira com arquitetura híbrida: NoSQL para armazenamento flexível de cupons e SQL para controle e fechamento diário consolidado."
 authors = [
     {name = "Rogerio Campos",email = "rogerio.campos07@gmail.com"}
 ]
